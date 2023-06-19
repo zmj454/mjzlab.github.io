@@ -71,12 +71,12 @@ footer a {color:#fff}
 #contacts-form textarea {width:237px;height:114px;padding:1px 0 1px 3px;border:1px solid #a6a6a6;color:#a6a6a6;margin-bottom:15px;overflow:auto;background:none;float:left}
 /* tabs */
 ul.tabs {position:absolute;right:60px;top:89px}
-ul.tabs li {float:left;line-height:1.2em;padding-left:10px}
+ul.tabs li {float:left;line-height:1.2em;padding-left:5px}
 ul.tabs li a {color:#fff;display:block;float:left;text-decoration:none;background:url(../images/button-left.png) no-repeat left top;cursor:pointer}
 ul.tabs li a:hover, ul.tabs li.active a {color:#ffc632}
 ul.tabs li a span {display:block;float:left;padding:0 9px;background:url(../images/button-right.png) no-repeat right top}
 ul.tabs li a span span {padding:9px 18px 8px 18px;background:url(../images/button-tail.png) repeat-x left top}
-.tab_container {position:relative;top:126px;width:100%}
+.tab_container {position:relative;top:126px;width:200%}
 /* faded gallery */
 .faded {width:888px;height:341px;margin:0 auto;position:relative}
 .faded ul.big-image {list-style:none;padding:0;margin:0;width:653px;height:341px;float:right;background:url(../images/img-wrapper-big.png) no-repeat left top}

@@ -78,7 +78,7 @@ ul.tabs li a span {display:block;float:left;padding:0 9px;background:url(../imag
 ul.tabs li a span span {padding:9px 18px 8px 18px;background:url(../images/button-tail.png) repeat-x left top}
 .tab_container {position:relative;top:126px;width:200%}
 /* faded gallery */
-.faded {width:1600px;height:341px;margin:0 auto;position:relative}
+.faded {width:1800px;height:341px;margin:0 auto;position:relative}
 .faded ul.big-image {list-style:none;padding:0;margin:0;width:653px;height:341px;float:left;background:url(../images/img-wrapper-big.png) no-repeat left top}
 .faded ul.big-image li {padding:9px 0 0 9px;width:635px;height:323px}
 ul.pagination {list-style:none;padding:0;margin:0;background:none;width:auto;height:auto;position:absolute;left:0;top:0}
